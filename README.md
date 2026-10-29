@@ -1,4 +1,4 @@
-### Conflictos en Git 27 Octubre 2026
+### Conflictos en Git
 
 -Franco Leyva
 -Luis
